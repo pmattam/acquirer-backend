@@ -1,0 +1,20 @@
+{
+  "name": "acquirer-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "database": "0.0.2",
+    "dotenv": "^5.0.1",
+    "dotenv-safe": "^5.0.1",
+    "express": "^4.16.3",
+    "pg": "^7.4.3",
+    "pg-promise": "^8.4.0"
+  }
+}
