@@ -1,7 +1,7 @@
 # Acquirer
 ---
 
-## [Acquirer Frontend Repo](https://github.com/pmattam/acquirer-app)
+## [Acquirer Frontend Repo](https://github.com/pmattam/acquirer)
 
 ## Overview
 
